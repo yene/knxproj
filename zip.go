@@ -5,6 +5,7 @@ import (
 	"io"
 	"os"
 	"path/filepath"
+	"strings"
 )
 
 func Unzip(src, dest string) error {
@@ -59,6 +60,10 @@ func Unzip(src, dest string) error {
 	}
 
 	for _, f := range r.File {
+		// Ignoring extra data inside the project. These binary data can get big when unpacking.
+		if strings.Contains(f.Name, "Baggages") || strings.Contains(f.Name, "BinaryData") || strings.Contains(f.Name, "ExtraData") {
+			continue
+		}
 		err := extractAndWriteFile(f)
 		if err != nil {
 			return err

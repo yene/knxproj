@@ -2,8 +2,7 @@
 
 I ported an existing project parser from Java to Go, which resulted in a bit of an ugly code.
 
-Export used devices as JSON.
-`go run cmd/main.go Project.knxproj`
+Export used devices as JSON: `go run cmd/main.go Project.knxproj`
 
 ## TODO
 - [ ] Test with two level group addresses.
