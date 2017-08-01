@@ -1,0 +1,3014 @@
+{
+  "name": "HagerDemoCase",
+  "filename": "",
+  "gaformat": 3,
+  "lastmodified": "2016-12-13T07:31:24.4283508Z",
+  "devices": [
+    {
+      "address": "1.0.1",
+      "name": "",
+      "description": "",
+      "productname": "Dummy",
+      "manufacturer": "GIRA Giersiepen",
+      "serialnumber": "8 // Dummy",
+      "objects": [
+        {
+          "number": 0,
+          "name": "1 Bit (1)",
+          "function": "1 Bit",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 1,
+          "name": "1 Bit (2)",
+          "function": "1 Bit",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 2,
+          "name": "1 Bit (3)",
+          "function": "1 Bit",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 3,
+          "name": "1 Bit (4)",
+          "function": "1 Bit",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 4,
+          "name": "1 Bit (5)",
+          "function": "1 Bit",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 5,
+          "name": "1 Bit (6)",
+          "function": "1 Bit",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 6,
+          "name": "1 Bit (7)",
+          "function": "1 Bit",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 7,
+          "name": "1 Bit (8)",
+          "function": "1 Bit",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 8,
+          "name": "1 Bit (9)",
+          "function": "1 Bit",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 9,
+          "name": "1 Bit (10)",
+          "function": "1 Bit",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 10,
+          "name": "2 Bit (1)",
+          "function": "2 Bit",
+          "description": "",
+          "groupaddress": [],
+          "bit": 2,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 11,
+          "name": "2 Bit (2)",
+          "function": "2 Bit",
+          "description": "",
+          "groupaddress": [],
+          "bit": 2,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 12,
+          "name": "2 Bit (3)",
+          "function": "2 Bit",
+          "description": "",
+          "groupaddress": [],
+          "bit": 2,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 13,
+          "name": "3 Bit (1)",
+          "function": "3 Bit",
+          "description": "",
+          "groupaddress": [],
+          "bit": 3,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 14,
+          "name": "3 Bit (2)",
+          "function": "3 Bit",
+          "description": "",
+          "groupaddress": [],
+          "bit": 3,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 15,
+          "name": "3 Bit (3)",
+          "function": "3 Bit",
+          "description": "",
+          "groupaddress": [],
+          "bit": 3,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 16,
+          "name": "4 Bit (1)",
+          "function": "4 Bit",
+          "description": "",
+          "groupaddress": [],
+          "bit": 4,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 17,
+          "name": "4 Bit (2)",
+          "function": "4 Bit",
+          "description": "",
+          "groupaddress": [],
+          "bit": 4,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 18,
+          "name": "4 Bit (3)",
+          "function": "4 Bit",
+          "description": "",
+          "groupaddress": [],
+          "bit": 4,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 19,
+          "name": "5 Bit (1)",
+          "function": "5 Bit",
+          "description": "",
+          "groupaddress": [],
+          "bit": 5,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 20,
+          "name": "5 Bit (2)",
+          "function": "5 Bit",
+          "description": "",
+          "groupaddress": [],
+          "bit": 5,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 21,
+          "name": "5 Bit (3)",
+          "function": "5 Bit",
+          "description": "",
+          "groupaddress": [],
+          "bit": 5,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 22,
+          "name": "6 Bit (1)",
+          "function": "6 Bit",
+          "description": "",
+          "groupaddress": [],
+          "bit": 6,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 23,
+          "name": "6 Bit (2)",
+          "function": "6 Bit",
+          "description": "",
+          "groupaddress": [],
+          "bit": 6,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 24,
+          "name": "6 Bit (3)",
+          "function": "6 Bit",
+          "description": "",
+          "groupaddress": [],
+          "bit": 6,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 25,
+          "name": "7 Bit (1)",
+          "function": "7 Bit",
+          "description": "",
+          "groupaddress": [],
+          "bit": 7,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 26,
+          "name": "7 Bit (2)",
+          "function": "7 Bit",
+          "description": "",
+          "groupaddress": [],
+          "bit": 7,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 27,
+          "name": "7 Bit (3)",
+          "function": "7 Bit",
+          "description": "",
+          "groupaddress": [],
+          "bit": 7,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 28,
+          "name": "1 Byte (1)",
+          "function": "1 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 8,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 29,
+          "name": "1 Byte (2)",
+          "function": "1 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 8,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 30,
+          "name": "1 Byte (3)",
+          "function": "1 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 8,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 31,
+          "name": "1 Byte (4)",
+          "function": "1 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 8,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 32,
+          "name": "1 Byte (5)",
+          "function": "1 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 8,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 33,
+          "name": "1 Byte (6)",
+          "function": "1 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 8,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 34,
+          "name": "1 Byte (7)",
+          "function": "1 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 8,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 35,
+          "name": "1 Byte (8)",
+          "function": "1 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 8,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 36,
+          "name": "1 Byte (9)",
+          "function": "1 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 8,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 37,
+          "name": "1 Byte (10)",
+          "function": "1 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 8,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 38,
+          "name": "2 Byte (1)",
+          "function": "2 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 16,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 39,
+          "name": "2 Byte (2)",
+          "function": "2 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 16,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 40,
+          "name": "2 Byte (3)",
+          "function": "2 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 16,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 41,
+          "name": "2 Byte (4)",
+          "function": "2 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 16,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 42,
+          "name": "2 Byte (5)",
+          "function": "2 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 16,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 43,
+          "name": "2 Byte (6)",
+          "function": "2 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 16,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 44,
+          "name": "2 Byte (7)",
+          "function": "2 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 16,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 45,
+          "name": "2 Byte (8)",
+          "function": "2 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 16,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 46,
+          "name": "2 Byte (9)",
+          "function": "2 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 16,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 47,
+          "name": "2 Byte (10)",
+          "function": "2 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 16,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 48,
+          "name": "3 Byte (1)",
+          "function": "3 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 24,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 49,
+          "name": "3 Byte (2)",
+          "function": "3 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 24,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 50,
+          "name": "3 Byte (3)",
+          "function": "3 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 24,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 51,
+          "name": "4 Byte (1)",
+          "function": "4 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 32,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 52,
+          "name": "4 Byte (2)",
+          "function": "4 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 32,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 53,
+          "name": "4 Byte (3)",
+          "function": "4 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 32,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 54,
+          "name": "6 Byte (1)",
+          "function": "6 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 48,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 55,
+          "name": "6 Byte (2)",
+          "function": "6 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 48,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 56,
+          "name": "6 Byte (3)",
+          "function": "6 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 48,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 57,
+          "name": "8 Byte (1)",
+          "function": "8 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 64,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 58,
+          "name": "8 Byte (2)",
+          "function": "8 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 64,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 59,
+          "name": "8 Byte (3)",
+          "function": "8 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 64,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 60,
+          "name": "10 Byte (1)",
+          "function": "10 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 80,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 61,
+          "name": "10 Byte (2)",
+          "function": "10 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 80,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 62,
+          "name": "10 Byte (3)",
+          "function": "10 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 80,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 63,
+          "name": "14 Byte (1)",
+          "function": "14 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 112,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 64,
+          "name": "14 Byte (2)",
+          "function": "14 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 112,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 65,
+          "name": "14 Byte (3)",
+          "function": "14 Byte",
+          "description": "",
+          "groupaddress": [],
+          "bit": 112,
+          "flags": "CRWT",
+          "dpt": "",
+          "channel": ""
+        }
+      ],
+      "downloadrequired": true
+    },
+    {
+      "address": "1.1.1",
+      "name": "",
+      "description": "KNX Router",
+      "productname": "IP / KNX Interface",
+      "manufacturer": "Hager Electro",
+      "serialnumber": "9 // TYF120",
+      "objects": [],
+      "downloadrequired": false
+    },
+    {
+      "address": "1.1.2",
+      "name": "",
+      "description": "3DA REG",
+      "productname": "3-fold dimming actuator 300W, universal",
+      "manufacturer": "Hager Electro",
+      "serialnumber": "9 // TXA663A",
+      "objects": [
+        {
+          "number": 0,
+          "name": "Output 1",
+          "function": "ON/OFF",
+          "description": "HaloSpotLeft.A.ON/OFF",
+          "groupaddress": [
+            "1/1/0",
+            "1/0/0"
+          ],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.001",
+          "channel": "Ausgang 1"
+        },
+        {
+          "number": 1,
+          "name": "Output 1",
+          "function": "Dimming",
+          "description": "HaloSpotLeft.A.DIM",
+          "groupaddress": [
+            "1/1/1"
+          ],
+          "bit": 4,
+          "flags": "CRW",
+          "dpt": "3.007",
+          "channel": "Ausgang 1"
+        },
+        {
+          "number": 2,
+          "name": "Output 1",
+          "function": "Brightness value",
+          "description": "HaloSpotLeft.A.VALUE",
+          "groupaddress": [
+            "1/1/2"
+          ],
+          "bit": 8,
+          "flags": "CRW",
+          "dpt": "5.001",
+          "channel": "Ausgang 1"
+        },
+        {
+          "number": 3,
+          "name": "Output 1",
+          "function": "Load memorisation",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.010",
+          "channel": "Ausgang 1"
+        },
+        {
+          "number": 8,
+          "name": "Output 1",
+          "function": "Status indication ON/OFF",
+          "description": "HaloSpotLeft.A.STATE",
+          "groupaddress": [
+            "1/1/3"
+          ],
+          "bit": 1,
+          "flags": "CRT",
+          "dpt": "1.001",
+          "channel": "Ausgang 1"
+        },
+        {
+          "number": 9,
+          "name": "Output 1",
+          "function": "Status ind. brightness value",
+          "description": "HaloSpotLeft.A.STATE%",
+          "groupaddress": [
+            "1/1/5"
+          ],
+          "bit": 8,
+          "flags": "CRT",
+          "dpt": "5.001",
+          "channel": "Ausgang 1"
+        },
+        {
+          "number": 11,
+          "name": "Output 1",
+          "function": "Scene",
+          "description": "General.Scene.Value",
+          "groupaddress": [
+            "1/0/10"
+          ],
+          "bit": 8,
+          "flags": "CRW",
+          "dpt": "18.001",
+          "channel": "Ausgang 1"
+        },
+        {
+          "number": 14,
+          "name": "Output 2",
+          "function": "ON/OFF",
+          "description": "HaloSpotRight.B.ON/OFF",
+          "groupaddress": [
+            "1/1/11",
+            "1/0/0"
+          ],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.001",
+          "channel": "Ausgang 2"
+        },
+        {
+          "number": 15,
+          "name": "Output 2",
+          "function": "Dimming",
+          "description": "HaloSpotRight.B.DIM",
+          "groupaddress": [
+            "1/1/12"
+          ],
+          "bit": 4,
+          "flags": "CRW",
+          "dpt": "3.007",
+          "channel": "Ausgang 2"
+        },
+        {
+          "number": 16,
+          "name": "Output 2",
+          "function": "Brightness value",
+          "description": "HaloSpotRight.B.VALUE",
+          "groupaddress": [
+            "1/1/13"
+          ],
+          "bit": 8,
+          "flags": "CRW",
+          "dpt": "5.001",
+          "channel": "Ausgang 2"
+        },
+        {
+          "number": 17,
+          "name": "Output 2",
+          "function": "Load memorisation",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.010",
+          "channel": "Ausgang 2"
+        },
+        {
+          "number": 22,
+          "name": "Output 2",
+          "function": "Status indication ON/OFF",
+          "description": "HaloSpotRight.B.STATE",
+          "groupaddress": [
+            "1/1/14"
+          ],
+          "bit": 1,
+          "flags": "CRT",
+          "dpt": "1.001",
+          "channel": "Ausgang 2"
+        },
+        {
+          "number": 23,
+          "name": "Output 2",
+          "function": "Status ind. brightness value",
+          "description": "HaloSpotRight.B.STATE%",
+          "groupaddress": [
+            "1/1/15"
+          ],
+          "bit": 8,
+          "flags": "CRT",
+          "dpt": "5.001",
+          "channel": "Ausgang 2"
+        },
+        {
+          "number": 25,
+          "name": "Output 2",
+          "function": "Scene",
+          "description": "General.Scene.Value",
+          "groupaddress": [
+            "1/0/10"
+          ],
+          "bit": 8,
+          "flags": "CRW",
+          "dpt": "18.001",
+          "channel": "Ausgang 2"
+        }
+      ],
+      "downloadrequired": false
+    },
+    {
+      "address": "1.1.3",
+      "name": "",
+      "description": "",
+      "productname": "4-fold blind/shutter actuator 6A 230V AC",
+      "manufacturer": "Hager Electro",
+      "serialnumber": "9 // TXA624C",
+      "objects": [
+        {
+          "number": 0,
+          "name": "Output 1",
+          "function": "Up/down",
+          "description": "Shutter.Kittchen.1.UP/DOWN",
+          "groupaddress": [
+            "2/1/0",
+            "2/0/0"
+          ],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.008",
+          "channel": "Ausgang 1: Rollladen/Jalousie"
+        },
+        {
+          "number": 2,
+          "name": "Output 1",
+          "function": "Stop (short press)",
+          "description": "Shutter.Kittchen.1.STOP",
+          "groupaddress": [
+            "2/1/1",
+            "2/0/1"
+          ],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.017",
+          "channel": "Ausgang 1: Rollladen/Jalousie"
+        },
+        {
+          "number": 3,
+          "name": "Output 1",
+          "function": "Position in %",
+          "description": "Shutter.Kittchen.1.POS",
+          "groupaddress": [
+            "2/1/2",
+            "2/0/2"
+          ],
+          "bit": 8,
+          "flags": "CRW",
+          "dpt": "5.001",
+          "channel": "Ausgang 1: Rollladen/Jalousie"
+        },
+        {
+          "number": 5,
+          "name": "Output 1",
+          "function": "Status indication position in %",
+          "description": "Shutter.Kittchen.1.STATE%",
+          "groupaddress": [
+            "2/1/3"
+          ],
+          "bit": 8,
+          "flags": "CRT",
+          "dpt": "5.001",
+          "channel": "Ausgang 1: Rollladen/Jalousie"
+        },
+        {
+          "number": 11,
+          "name": "Output 1",
+          "function": "Scene",
+          "description": "General.Scene.Value",
+          "groupaddress": [
+            "1/0/10"
+          ],
+          "bit": 8,
+          "flags": "CRW",
+          "dpt": "18.001",
+          "channel": "Ausgang 1: Rollladen/Jalousie"
+        },
+        {
+          "number": 19,
+          "name": "Output 2",
+          "function": "Up/down",
+          "description": "Shutter.Elena.2.UP/DOWN",
+          "groupaddress": [
+            "2/1/10",
+            "2/0/0"
+          ],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.008",
+          "channel": "Ausgang 2: Rollladen/Jalousie"
+        },
+        {
+          "number": 21,
+          "name": "Output 2",
+          "function": "Stop (short press)",
+          "description": "Shutter.Elena.2.STOP",
+          "groupaddress": [
+            "2/1/11",
+            "2/0/1"
+          ],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.017",
+          "channel": "Ausgang 2: Rollladen/Jalousie"
+        },
+        {
+          "number": 22,
+          "name": "Output 2",
+          "function": "Position in %",
+          "description": "Shutter.Elena.2.POS",
+          "groupaddress": [
+            "2/1/12",
+            "2/0/2"
+          ],
+          "bit": 8,
+          "flags": "CRW",
+          "dpt": "5.001",
+          "channel": "Ausgang 2: Rollladen/Jalousie"
+        },
+        {
+          "number": 24,
+          "name": "Output 2",
+          "function": "Status indication position in %",
+          "description": "Shutter.Elena.2.STATE%",
+          "groupaddress": [
+            "2/1/13"
+          ],
+          "bit": 8,
+          "flags": "CRT",
+          "dpt": "5.001",
+          "channel": "Ausgang 2: Rollladen/Jalousie"
+        },
+        {
+          "number": 30,
+          "name": "Output 2",
+          "function": "Scene",
+          "description": "General.Scene.Value",
+          "groupaddress": [
+            "1/0/10"
+          ],
+          "bit": 8,
+          "flags": "CRW",
+          "dpt": "18.001",
+          "channel": "Ausgang 2: Rollladen/Jalousie"
+        },
+        {
+          "number": 38,
+          "name": "Output 3",
+          "function": "Up/down",
+          "description": "Shutter.HomeOffice.3.UP/DOWN",
+          "groupaddress": [
+            "2/1/20",
+            "2/0/0"
+          ],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.008",
+          "channel": "Ausgang 3: Rollladen/Jalousie"
+        },
+        {
+          "number": 40,
+          "name": "Output 3",
+          "function": "Stop (short press)",
+          "description": "Shutter.HomeOffice.3.STOP",
+          "groupaddress": [
+            "2/1/21",
+            "2/0/1"
+          ],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.017",
+          "channel": "Ausgang 3: Rollladen/Jalousie"
+        },
+        {
+          "number": 41,
+          "name": "Output 3",
+          "function": "Position in %",
+          "description": "Shutter.HomeOffice.3.POS",
+          "groupaddress": [
+            "2/1/22",
+            "2/0/2"
+          ],
+          "bit": 8,
+          "flags": "CRW",
+          "dpt": "5.001",
+          "channel": "Ausgang 3: Rollladen/Jalousie"
+        },
+        {
+          "number": 43,
+          "name": "Output 3",
+          "function": "Status indication position in %",
+          "description": "Shutter.HomeOffice.3.STATE%",
+          "groupaddress": [
+            "2/1/23"
+          ],
+          "bit": 8,
+          "flags": "CRT",
+          "dpt": "5.001",
+          "channel": "Ausgang 3: Rollladen/Jalousie"
+        },
+        {
+          "number": 49,
+          "name": "Output 3",
+          "function": "Scene",
+          "description": "General.Scene.Value",
+          "groupaddress": [
+            "1/0/10"
+          ],
+          "bit": 8,
+          "flags": "CRW",
+          "dpt": "18.001",
+          "channel": "Ausgang 3: Rollladen/Jalousie"
+        },
+        {
+          "number": 57,
+          "name": "Output 4",
+          "function": "Up/down",
+          "description": "Shutter.Granny.4.ON/OFF",
+          "groupaddress": [
+            "2/1/30",
+            "2/0/0"
+          ],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.008",
+          "channel": "Ausgang 4: Rollladen/Jalousie"
+        },
+        {
+          "number": 59,
+          "name": "Output 4",
+          "function": "Stop (short press)",
+          "description": "Shutter.Granny.4.STOP",
+          "groupaddress": [
+            "2/1/31",
+            "2/0/1"
+          ],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.017",
+          "channel": "Ausgang 4: Rollladen/Jalousie"
+        },
+        {
+          "number": 60,
+          "name": "Output 4",
+          "function": "Position in %",
+          "description": "Shutter.Granny.4.POS",
+          "groupaddress": [
+            "2/1/32",
+            "2/0/2"
+          ],
+          "bit": 8,
+          "flags": "CRW",
+          "dpt": "5.001",
+          "channel": "Ausgang 4: Rollladen/Jalousie"
+        },
+        {
+          "number": 62,
+          "name": "Output 4",
+          "function": "Status indication position in %",
+          "description": "Shutter.Granny.4.STATE%",
+          "groupaddress": [
+            "2/1/33"
+          ],
+          "bit": 8,
+          "flags": "CRT",
+          "dpt": "5.001",
+          "channel": "Ausgang 4: Rollladen/Jalousie"
+        },
+        {
+          "number": 68,
+          "name": "Output 4",
+          "function": "Scene",
+          "description": "General.Scene.Value",
+          "groupaddress": [
+            "1/0/10"
+          ],
+          "bit": 8,
+          "flags": "CRW",
+          "dpt": "18.001",
+          "channel": "Ausgang 4: Rollladen/Jalousie"
+        }
+      ],
+      "downloadrequired": false
+    },
+    {
+      "address": "1.1.4",
+      "name": "",
+      "description": "",
+      "productname": "10-fold switch actuator 10A 230V AC",
+      "manufacturer": "Hager Electro",
+      "serialnumber": "9 // TXA610",
+      "objects": [
+        {
+          "number": 0,
+          "name": "Output 1",
+          "function": "ON/OFF",
+          "description": "Kittchen.Lamp.1.ON/OFF",
+          "groupaddress": [
+            "1/2/0",
+            "1/0/0"
+          ],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.001",
+          "channel": "Ausgang 1"
+        },
+        {
+          "number": 1,
+          "name": "Output 1",
+          "function": "Status indication ON/OFF",
+          "description": "Kittchen.Lamp.1.STATE",
+          "groupaddress": [
+            "1/2/1"
+          ],
+          "bit": 1,
+          "flags": "CRT",
+          "dpt": "1.001",
+          "channel": "Ausgang 1"
+        },
+        {
+          "number": 5,
+          "name": "Output 1",
+          "function": "Scene",
+          "description": "General.Scene.Value",
+          "groupaddress": [
+            "1/0/10"
+          ],
+          "bit": 8,
+          "flags": "CRW",
+          "dpt": "18.001",
+          "channel": "Ausgang 1"
+        },
+        {
+          "number": 10,
+          "name": "Output 2",
+          "function": "ON/OFF",
+          "description": "Bath.Lamp.2.ON/OFF",
+          "groupaddress": [
+            "1/2/5",
+            "1/0/0"
+          ],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.001",
+          "channel": "Ausgang 2"
+        },
+        {
+          "number": 11,
+          "name": "Output 2",
+          "function": "Status indication ON/OFF",
+          "description": "Bath.Lamp.2.STATE",
+          "groupaddress": [
+            "1/2/6"
+          ],
+          "bit": 1,
+          "flags": "CRT",
+          "dpt": "1.001",
+          "channel": "Ausgang 2"
+        },
+        {
+          "number": 15,
+          "name": "Output 2",
+          "function": "Scene",
+          "description": "General.Scene.Value",
+          "groupaddress": [
+            "1/0/10"
+          ],
+          "bit": 8,
+          "flags": "CRW",
+          "dpt": "18.001",
+          "channel": "Ausgang 2"
+        },
+        {
+          "number": 20,
+          "name": "Output 3",
+          "function": "ON/OFF",
+          "description": "Bedroom.Lamp.3.ON/OFF",
+          "groupaddress": [
+            "1/2/10",
+            "1/0/0"
+          ],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.001",
+          "channel": "Ausgang 3"
+        },
+        {
+          "number": 21,
+          "name": "Output 3",
+          "function": "Status indication ON/OFF",
+          "description": "Bedroom.Lamp.3.STATE",
+          "groupaddress": [
+            "1/2/11"
+          ],
+          "bit": 1,
+          "flags": "CRT",
+          "dpt": "1.001",
+          "channel": "Ausgang 3"
+        },
+        {
+          "number": 25,
+          "name": "Output 3",
+          "function": "Scene",
+          "description": "General.Scene.Value",
+          "groupaddress": [
+            "1/0/10"
+          ],
+          "bit": 8,
+          "flags": "CRW",
+          "dpt": "18.001",
+          "channel": "Ausgang 3"
+        },
+        {
+          "number": 30,
+          "name": "Output 4",
+          "function": "ON/OFF",
+          "description": "Hobby.Lamp.4.ON/OFF",
+          "groupaddress": [
+            "1/2/15",
+            "1/0/0"
+          ],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.001",
+          "channel": "Ausgang 4"
+        },
+        {
+          "number": 31,
+          "name": "Output 4",
+          "function": "Status indication ON/OFF",
+          "description": "Hobby.Lamp.4.STATE",
+          "groupaddress": [
+            "1/2/16"
+          ],
+          "bit": 1,
+          "flags": "CRT",
+          "dpt": "1.001",
+          "channel": "Ausgang 4"
+        },
+        {
+          "number": 35,
+          "name": "Output 4",
+          "function": "Scene",
+          "description": "General.Scene.Value",
+          "groupaddress": [
+            "1/0/10"
+          ],
+          "bit": 8,
+          "flags": "CRW",
+          "dpt": "18.001",
+          "channel": "Ausgang 4"
+        },
+        {
+          "number": 40,
+          "name": "Output 5",
+          "function": "ON/OFF",
+          "description": "Yannik.Lamp.5.ON/OFF",
+          "groupaddress": [
+            "1/2/20",
+            "1/0/0"
+          ],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.001",
+          "channel": "Ausgang 5"
+        },
+        {
+          "number": 41,
+          "name": "Output 5",
+          "function": "Status indication ON/OFF",
+          "description": "Yannik.Lamp.5.STATE",
+          "groupaddress": [
+            "1/2/21"
+          ],
+          "bit": 1,
+          "flags": "CRT",
+          "dpt": "1.001",
+          "channel": "Ausgang 5"
+        },
+        {
+          "number": 45,
+          "name": "Output 5",
+          "function": "Scene",
+          "description": "General.Scene.Value",
+          "groupaddress": [
+            "1/0/10"
+          ],
+          "bit": 8,
+          "flags": "CRW",
+          "dpt": "18.001",
+          "channel": "Ausgang 5"
+        },
+        {
+          "number": 50,
+          "name": "Output 6",
+          "function": "ON/OFF",
+          "description": "Granny.Lamp.6.ON/OFF",
+          "groupaddress": [
+            "1/2/25",
+            "1/0/0"
+          ],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.001",
+          "channel": "Ausgang 6"
+        },
+        {
+          "number": 51,
+          "name": "Output 6",
+          "function": "Status indication ON/OFF",
+          "description": "Granny.Lamp.6.STATE",
+          "groupaddress": [
+            "1/2/26"
+          ],
+          "bit": 1,
+          "flags": "CRT",
+          "dpt": "1.001",
+          "channel": "Ausgang 6"
+        },
+        {
+          "number": 55,
+          "name": "Output 6",
+          "function": "Scene",
+          "description": "General.Scene.Value",
+          "groupaddress": [
+            "1/0/10"
+          ],
+          "bit": 8,
+          "flags": "CRW",
+          "dpt": "18.001",
+          "channel": "Ausgang 6"
+        },
+        {
+          "number": 60,
+          "name": "Output 7",
+          "function": "ON/OFF",
+          "description": "Dining.Lamp.7.ON/OFF",
+          "groupaddress": [
+            "1/2/30",
+            "1/0/0"
+          ],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.001",
+          "channel": "Ausgang 7"
+        },
+        {
+          "number": 61,
+          "name": "Output 7",
+          "function": "Status indication ON/OFF",
+          "description": "Dining.Lamp.7.STATE",
+          "groupaddress": [
+            "1/2/31"
+          ],
+          "bit": 1,
+          "flags": "CRT",
+          "dpt": "1.001",
+          "channel": "Ausgang 7"
+        },
+        {
+          "number": 65,
+          "name": "Output 7",
+          "function": "Scene",
+          "description": "General.Scene.Value",
+          "groupaddress": [
+            "1/0/10"
+          ],
+          "bit": 8,
+          "flags": "CRW",
+          "dpt": "18.001",
+          "channel": "Ausgang 7"
+        },
+        {
+          "number": 70,
+          "name": "Output 8",
+          "function": "ON/OFF",
+          "description": "Elena.Lamp.8.ON/OFF",
+          "groupaddress": [
+            "1/2/35",
+            "1/0/0"
+          ],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.001",
+          "channel": "Ausgang 8"
+        },
+        {
+          "number": 71,
+          "name": "Output 8",
+          "function": "Status indication ON/OFF",
+          "description": "Elena.Lamp.8.STATE",
+          "groupaddress": [
+            "1/2/36"
+          ],
+          "bit": 1,
+          "flags": "CRT",
+          "dpt": "1.001",
+          "channel": "Ausgang 8"
+        },
+        {
+          "number": 75,
+          "name": "Output 8",
+          "function": "Scene",
+          "description": "General.Scene.Value",
+          "groupaddress": [
+            "1/0/10"
+          ],
+          "bit": 8,
+          "flags": "CRW",
+          "dpt": "18.001",
+          "channel": "Ausgang 8"
+        },
+        {
+          "number": 80,
+          "name": "Output 9",
+          "function": "ON/OFF",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.001",
+          "channel": "Ausgang 9"
+        },
+        {
+          "number": 81,
+          "name": "Output 9",
+          "function": "Status indication ON/OFF",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRT",
+          "dpt": "1.001",
+          "channel": "Ausgang 9"
+        },
+        {
+          "number": 90,
+          "name": "Output 10",
+          "function": "ON/OFF",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.001",
+          "channel": "Ausgang 10"
+        },
+        {
+          "number": 91,
+          "name": "Output 10",
+          "function": "Status indication ON/OFF",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRT",
+          "dpt": "1.001",
+          "channel": "Ausgang 10"
+        }
+      ],
+      "downloadrequired": false
+    },
+    {
+      "address": "1.1.10",
+      "name": "",
+      "description": "Berker 3TS up",
+      "productname": "2-8 fold multifunction push-button",
+      "manufacturer": "Berker",
+      "serialnumber": "6 // 801xxxxx",
+      "objects": [
+        {
+          "number": 4,
+          "name": "General",
+          "function": "Lock-up",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CW",
+          "dpt": "1.011",
+          "channel": "Allgemein"
+        },
+        {
+          "number": 5,
+          "name": "LED management",
+          "function": "Day/night",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CW",
+          "dpt": "1.011",
+          "channel": "Farbe und Helligkeit Status LED"
+        },
+        {
+          "number": 6,
+          "name": "LED management",
+          "function": "Device LED - ON/OFF",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CW",
+          "dpt": "1.001",
+          "channel": "Farbe und Helligkeit Status LED"
+        },
+        {
+          "number": 12,
+          "name": "Rocker 1-2",
+          "function": "Separately LED object",
+          "description": "PushButton1.up.STATE",
+          "groupaddress": [
+            "1/3/103"
+          ],
+          "bit": 1,
+          "flags": "CWTU",
+          "dpt": "1.001",
+          "channel": "Wippe 1-2"
+        },
+        {
+          "number": 18,
+          "name": "Rocker 1-2",
+          "function": "ON/OFF",
+          "description": "PushButton1.up.ON/OFF",
+          "groupaddress": [
+            "1/3/101"
+          ],
+          "bit": 1,
+          "flags": "CT",
+          "dpt": "1.001",
+          "channel": "Wippe 1-2"
+        },
+        {
+          "number": 21,
+          "name": "Rocker 1-2",
+          "function": "Dimming",
+          "description": "PushButton1.up.DIM",
+          "groupaddress": [
+            "1/3/102"
+          ],
+          "bit": 4,
+          "flags": "CT",
+          "dpt": "3.007",
+          "channel": "Wippe 1-2"
+        },
+        {
+          "number": 52,
+          "name": "Rocker 3-4",
+          "function": "Separately LED object",
+          "description": "PushButton2.up.STATE",
+          "groupaddress": [
+            "1/3/107"
+          ],
+          "bit": 1,
+          "flags": "CWTU",
+          "dpt": "1.001",
+          "channel": "Wippe 3-4"
+        },
+        {
+          "number": 58,
+          "name": "Rocker 3-4",
+          "function": "ON/OFF",
+          "description": "PushButton2.up.ON/OFF",
+          "groupaddress": [
+            "1/3/105"
+          ],
+          "bit": 1,
+          "flags": "CT",
+          "dpt": "1.001",
+          "channel": "Wippe 3-4"
+        },
+        {
+          "number": 61,
+          "name": "Rocker 3-4",
+          "function": "Dimming",
+          "description": "PushButton2.up.DIM",
+          "groupaddress": [
+            "1/3/106"
+          ],
+          "bit": 4,
+          "flags": "CT",
+          "dpt": "3.007",
+          "channel": "Wippe 3-4"
+        },
+        {
+          "number": 92,
+          "name": "Rocker 5-6",
+          "function": "Separately LED object",
+          "description": "PushButton3.up.STATE",
+          "groupaddress": [
+            "1/3/112"
+          ],
+          "bit": 1,
+          "flags": "CWTU",
+          "dpt": "1.001",
+          "channel": "Wippe 5-6"
+        },
+        {
+          "number": 98,
+          "name": "Rocker 5-6",
+          "function": "ON/OFF",
+          "description": "PushButton3.up.ON/OFF",
+          "groupaddress": [
+            "1/3/110"
+          ],
+          "bit": 1,
+          "flags": "CT",
+          "dpt": "1.001",
+          "channel": "Wippe 5-6"
+        },
+        {
+          "number": 101,
+          "name": "Rocker 5-6",
+          "function": "Dimming",
+          "description": "PushButton3.up.DIM",
+          "groupaddress": [
+            "1/3/111"
+          ],
+          "bit": 4,
+          "flags": "CT",
+          "dpt": "3.007",
+          "channel": "Wippe 5-6"
+        },
+        {
+          "number": 173,
+          "name": "External temperature sensor",
+          "function": "External temperature sensor",
+          "description": "PushButton.up.EXT TEMP",
+          "groupaddress": [
+            "3/0/40"
+          ],
+          "bit": 16,
+          "flags": "CRT",
+          "dpt": "9.001",
+          "channel": "Externer Temperaturfühler"
+        }
+      ],
+      "downloadrequired": false
+    },
+    {
+      "address": "1.1.11",
+      "name": "",
+      "description": "Berker 3TS down",
+      "productname": "2-8 fold multifunction push-button",
+      "manufacturer": "Berker",
+      "serialnumber": "6 // 801xxxxx",
+      "objects": [
+        {
+          "number": 4,
+          "name": "General",
+          "function": "Lock-up",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CW",
+          "dpt": "1.011",
+          "channel": "Allgemein"
+        },
+        {
+          "number": 5,
+          "name": "LED management",
+          "function": "Day/night",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CW",
+          "dpt": "1.011",
+          "channel": "Farbe und Helligkeit Status LED"
+        },
+        {
+          "number": 6,
+          "name": "LED management",
+          "function": "Device LED - ON/OFF",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CW",
+          "dpt": "1.001",
+          "channel": "Farbe und Helligkeit Status LED"
+        },
+        {
+          "number": 12,
+          "name": "Rocker 1-2",
+          "function": "Separately LED object",
+          "description": "PushButton1.down.STATE",
+          "groupaddress": [
+            "1/3/117"
+          ],
+          "bit": 1,
+          "flags": "CWTU",
+          "dpt": "1.001",
+          "channel": "Wippe 1-2"
+        },
+        {
+          "number": 18,
+          "name": "Rocker 1-2",
+          "function": "ON/OFF",
+          "description": "PushButton1.down.ON/OFF",
+          "groupaddress": [
+            "1/3/115"
+          ],
+          "bit": 1,
+          "flags": "CT",
+          "dpt": "1.001",
+          "channel": "Wippe 1-2"
+        },
+        {
+          "number": 21,
+          "name": "Rocker 1-2",
+          "function": "Dimming",
+          "description": "PushButton1.down.DIM",
+          "groupaddress": [
+            "1/3/116"
+          ],
+          "bit": 4,
+          "flags": "CT",
+          "dpt": "3.007",
+          "channel": "Wippe 1-2"
+        },
+        {
+          "number": 52,
+          "name": "Rocker 3-4",
+          "function": "Separately LED object",
+          "description": "PushButton2.down.STATE",
+          "groupaddress": [
+            "1/3/122"
+          ],
+          "bit": 1,
+          "flags": "CWTU",
+          "dpt": "1.001",
+          "channel": "Wippe 3-4"
+        },
+        {
+          "number": 58,
+          "name": "Rocker 3-4",
+          "function": "ON/OFF",
+          "description": "PushButton2.down.ON/OFF",
+          "groupaddress": [
+            "1/3/120"
+          ],
+          "bit": 1,
+          "flags": "CT",
+          "dpt": "1.001",
+          "channel": "Wippe 3-4"
+        },
+        {
+          "number": 61,
+          "name": "Rocker 3-4",
+          "function": "Dimming",
+          "description": "PushButton2.down.DIM",
+          "groupaddress": [
+            "1/3/121"
+          ],
+          "bit": 4,
+          "flags": "CT",
+          "dpt": "3.007",
+          "channel": "Wippe 3-4"
+        },
+        {
+          "number": 92,
+          "name": "Rocker 5-6",
+          "function": "Separately LED object",
+          "description": "PushButton2.down.STATE",
+          "groupaddress": [
+            "1/3/127"
+          ],
+          "bit": 1,
+          "flags": "CWTU",
+          "dpt": "1.001",
+          "channel": "Wippe 5-6"
+        },
+        {
+          "number": 98,
+          "name": "Rocker 5-6",
+          "function": "ON/OFF",
+          "description": "PushButton2.down.ON/OFF",
+          "groupaddress": [
+            "1/3/125"
+          ],
+          "bit": 1,
+          "flags": "CT",
+          "dpt": "1.001",
+          "channel": "Wippe 5-6"
+        },
+        {
+          "number": 101,
+          "name": "Rocker 5-6",
+          "function": "Dimming",
+          "description": "PushButton2.down.DIM",
+          "groupaddress": [
+            "1/3/126"
+          ],
+          "bit": 4,
+          "flags": "CT",
+          "dpt": "3.007",
+          "channel": "Wippe 5-6"
+        }
+      ],
+      "downloadrequired": false
+    },
+    {
+      "address": "1.1.12",
+      "name": "",
+      "description": "Berker 2TS white",
+      "productname": "2-4 fold multifunction push-button with BCU",
+      "manufacturer": "Berker",
+      "serialnumber": "6 // 8014xxx0",
+      "objects": [
+        {
+          "number": 4,
+          "name": "General",
+          "function": "Lock-up",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CW",
+          "dpt": "1.011",
+          "channel": "Allgemein"
+        },
+        {
+          "number": 5,
+          "name": "LED management",
+          "function": "Day/night",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CW",
+          "dpt": "1.011",
+          "channel": "Farbe und Helligkeit Status LED"
+        },
+        {
+          "number": 6,
+          "name": "LED management",
+          "function": "Device LED - ON/OFF",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CW",
+          "dpt": "1.001",
+          "channel": "Farbe und Helligkeit Status LED"
+        },
+        {
+          "number": 18,
+          "name": "Push-button 1",
+          "function": "Up/down",
+          "description": "Shutter.Kittchen.1.UP/DOWN",
+          "groupaddress": [
+            "2/1/0"
+          ],
+          "bit": 1,
+          "flags": "CT",
+          "dpt": "1.008",
+          "channel": "Taste 1"
+        },
+        {
+          "number": 19,
+          "name": "Push-button 1",
+          "function": "Step/stop (short press)",
+          "description": "Shutter.Kittchen.1.STOP",
+          "groupaddress": [
+            "2/1/1"
+          ],
+          "bit": 1,
+          "flags": "CT",
+          "dpt": "1.007",
+          "channel": "Taste 1"
+        },
+        {
+          "number": 38,
+          "name": "Push-button 2",
+          "function": "Up/down",
+          "description": "Shutter.Kittchen.1.UP/DOWN",
+          "groupaddress": [
+            "2/1/0"
+          ],
+          "bit": 1,
+          "flags": "CT",
+          "dpt": "1.008",
+          "channel": "Taste 2"
+        },
+        {
+          "number": 39,
+          "name": "Push-button 2",
+          "function": "Step/stop (short press)",
+          "description": "Shutter.Kittchen.1.STOP",
+          "groupaddress": [
+            "2/1/1"
+          ],
+          "bit": 1,
+          "flags": "CT",
+          "dpt": "1.007",
+          "channel": "Taste 2"
+        },
+        {
+          "number": 53,
+          "name": "Push-button 3",
+          "function": "Status indication ON/OFF",
+          "description": "Kittchen.Lamp.1.STATE",
+          "groupaddress": [
+            "1/2/1"
+          ],
+          "bit": 1,
+          "flags": "CWTU",
+          "dpt": "1.001",
+          "channel": "Taste 3"
+        },
+        {
+          "number": 58,
+          "name": "Push-button 3",
+          "function": "ON/OFF",
+          "description": "Kittchen.Lamp.1.ON/OFF",
+          "groupaddress": [
+            "1/2/0"
+          ],
+          "bit": 1,
+          "flags": "CT",
+          "dpt": "1.001",
+          "channel": "Taste 3"
+        },
+        {
+          "number": 78,
+          "name": "Push-button 4",
+          "function": "ON/OFF",
+          "description": "Kittchen.Lamp.1.ON/OFF",
+          "groupaddress": [
+            "1/2/0"
+          ],
+          "bit": 1,
+          "flags": "CT",
+          "dpt": "1.001",
+          "channel": "Taste 4"
+        },
+        {
+          "number": 132,
+          "name": "Internal temperature sensor",
+          "function": "Internal temperature sensor",
+          "description": "heating.kittchen.INT TEMP",
+          "groupaddress": [
+            "3/0/20"
+          ],
+          "bit": 16,
+          "flags": "CRT",
+          "dpt": "9.001",
+          "channel": "Interner Temperaturfühler"
+        }
+      ],
+      "downloadrequired": false
+    },
+    {
+      "address": "1.1.14",
+      "name": "",
+      "description": "Berker RTR",
+      "productname": "Thermostat/room controller",
+      "manufacturer": "Berker",
+      "serialnumber": "9 // 80440100 / 80660100",
+      "objects": [
+        {
+          "number": 0,
+          "name": "Display",
+          "function": "Day/night",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.000",
+          "channel": "Display"
+        },
+        {
+          "number": 1,
+          "name": "Display",
+          "function": "Backlight",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.001",
+          "channel": "Display"
+        },
+        {
+          "number": 2,
+          "name": "Display",
+          "function": "Display luminosity",
+          "description": "",
+          "groupaddress": [],
+          "bit": 8,
+          "flags": "CRW",
+          "dpt": "5.001",
+          "channel": "Display"
+        },
+        {
+          "number": 3,
+          "name": "Display",
+          "function": "Predefined user text message 1",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.001",
+          "channel": "Display"
+        },
+        {
+          "number": 4,
+          "name": "Display",
+          "function": "Predefined user text message 2",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.001",
+          "channel": "Display"
+        },
+        {
+          "number": 5,
+          "name": "Display",
+          "function": "Predefined user text message 3",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.001",
+          "channel": "Display"
+        },
+        {
+          "number": 6,
+          "name": "Display",
+          "function": "Alarm message",
+          "description": "Info.Roomcontroler.ASCII",
+          "groupaddress": [
+            "4/0/0"
+          ],
+          "bit": 112,
+          "flags": "CRW",
+          "dpt": "16.000",
+          "channel": "Display"
+        },
+        {
+          "number": 7,
+          "name": "Display",
+          "function": "Reset alarm message",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.015",
+          "channel": "Display"
+        },
+        {
+          "number": 8,
+          "name": "Display",
+          "function": "Lock-up",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.001",
+          "channel": "Display"
+        },
+        {
+          "number": 11,
+          "name": "Display",
+          "function": "Home status - 2 bytes",
+          "description": "Info.Roomcontroler.2Byte",
+          "groupaddress": [
+            "4/0/1"
+          ],
+          "bit": 16,
+          "flags": "CRW",
+          "dpt": "7.001",
+          "channel": "Display"
+        },
+        {
+          "number": 13,
+          "name": "Thermostat",
+          "function": "Mode selection",
+          "description": "heating.living.mode",
+          "groupaddress": [
+            "3/0/0"
+          ],
+          "bit": 8,
+          "flags": "CRW",
+          "dpt": "20.102",
+          "channel": "KNX Temperaturregler"
+        },
+        {
+          "number": 18,
+          "name": "Thermostat",
+          "function": "Setpoint selection automatic control",
+          "description": "",
+          "groupaddress": [],
+          "bit": 8,
+          "flags": "CRW",
+          "dpt": "20.102",
+          "channel": "KNX Temperaturregler"
+        },
+        {
+          "number": 19,
+          "name": "Thermostat",
+          "function": "Automatic control deactivation",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.003",
+          "channel": "KNX Temperaturregler"
+        },
+        {
+          "number": 21,
+          "name": "Thermostat",
+          "function": "Priority",
+          "description": "",
+          "groupaddress": [],
+          "bit": 2,
+          "flags": "CRW",
+          "dpt": "2.002",
+          "channel": "KNX Temperaturregler"
+        },
+        {
+          "number": 22,
+          "name": "Thermostat",
+          "function": "Windows contact",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.019",
+          "channel": "KNX Temperaturregler"
+        },
+        {
+          "number": 23,
+          "name": "Thermostat",
+          "function": "Overload",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.002",
+          "channel": "KNX Temperaturregler"
+        },
+        {
+          "number": 24,
+          "name": "Thermostat",
+          "function": "Scene",
+          "description": "",
+          "groupaddress": [],
+          "bit": 8,
+          "flags": "CRW",
+          "dpt": "18.001",
+          "channel": "KNX Temperaturregler"
+        },
+        {
+          "number": 25,
+          "name": "Thermostat",
+          "function": "Holiday mode",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.010",
+          "channel": "KNX Temperaturregler"
+        },
+        {
+          "number": 26,
+          "name": "Thermostat",
+          "function": "Status indication mode selection",
+          "description": "heating.living.STATE MODE",
+          "groupaddress": [
+            "3/0/1"
+          ],
+          "bit": 8,
+          "flags": "CRT",
+          "dpt": "20.102",
+          "channel": "KNX Temperaturregler"
+        },
+        {
+          "number": 27,
+          "name": "Thermostat",
+          "function": "Automatic control deactivation status",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRT",
+          "dpt": "1.003",
+          "channel": "KNX Temperaturregler"
+        },
+        {
+          "number": 29,
+          "name": "Thermostat",
+          "function": "Status indication heating active",
+          "description": "heating.living.STATE HEATING",
+          "groupaddress": [
+            "3/0/2"
+          ],
+          "bit": 1,
+          "flags": "CRT",
+          "dpt": "1.011",
+          "channel": "KNX Temperaturregler"
+        },
+        {
+          "number": 31,
+          "name": "Thermostat",
+          "function": "Status indication priority",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRT",
+          "dpt": "1.011",
+          "channel": "KNX Temperaturregler"
+        },
+        {
+          "number": 32,
+          "name": "Thermostat",
+          "function": "ON/OFF - basic heating",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRT",
+          "dpt": "1.001",
+          "channel": "KNX Temperaturregler"
+        },
+        {
+          "number": 33,
+          "name": "Thermostat",
+          "function": "Valve position in % - basic heating",
+          "description": "heating.living.VALVE%",
+          "groupaddress": [
+            "3/0/3"
+          ],
+          "bit": 8,
+          "flags": "CRT",
+          "dpt": "5.001",
+          "channel": "KNX Temperaturregler"
+        },
+        {
+          "number": 41,
+          "name": "Thermostat",
+          "function": "Room temperature",
+          "description": "heating.living.TEMP",
+          "groupaddress": [
+            "3/0/4"
+          ],
+          "bit": 16,
+          "flags": "CRW",
+          "dpt": "9.001",
+          "channel": "KNX Temperaturregler"
+        },
+        {
+          "number": 43,
+          "name": "Thermostat",
+          "function": "Status indication room temperature",
+          "description": "heating.living.STATUS TEMP",
+          "groupaddress": [
+            "3/0/5"
+          ],
+          "bit": 16,
+          "flags": "CRT",
+          "dpt": "9.001",
+          "channel": "KNX Temperaturregler"
+        },
+        {
+          "number": 63,
+          "name": "Thermostat",
+          "function": "Comfort setpoint heating",
+          "description": "",
+          "groupaddress": [],
+          "bit": 16,
+          "flags": "CRW",
+          "dpt": "9.001",
+          "channel": "KNX Temperaturregler"
+        },
+        {
+          "number": 64,
+          "name": "Thermostat",
+          "function": "Standby setpoint heating",
+          "description": "",
+          "groupaddress": [],
+          "bit": 16,
+          "flags": "CRW",
+          "dpt": "9.001",
+          "channel": "KNX Temperaturregler"
+        },
+        {
+          "number": 65,
+          "name": "Thermostat",
+          "function": "Night setpoint heating",
+          "description": "",
+          "groupaddress": [],
+          "bit": 16,
+          "flags": "CRW",
+          "dpt": "9.001",
+          "channel": "KNX Temperaturregler"
+        },
+        {
+          "number": 66,
+          "name": "Thermostat",
+          "function": "Frost protection setpoint heating",
+          "description": "",
+          "groupaddress": [],
+          "bit": 16,
+          "flags": "CRW",
+          "dpt": "9.001",
+          "channel": "KNX Temperaturregler"
+        },
+        {
+          "number": 67,
+          "name": "Thermostat",
+          "function": "Setpoints heating",
+          "description": "",
+          "groupaddress": [],
+          "bit": 64,
+          "flags": "CRW",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 72,
+          "name": "Thermostat",
+          "function": "Setpoints cooling",
+          "description": "",
+          "groupaddress": [],
+          "bit": 64,
+          "flags": "CRW",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 73,
+          "name": "Thermostat",
+          "function": "Override setpoint",
+          "description": "heating.living.SETPOINT SHIFT",
+          "groupaddress": [
+            "3/0/7"
+          ],
+          "bit": 16,
+          "flags": "CRW",
+          "dpt": "9.002",
+          "channel": "KNX Temperaturregler"
+        },
+        {
+          "number": 74,
+          "name": "Thermostat",
+          "function": "Override setpoint status",
+          "description": "heating.living.STATE SETPOINT SHIFT",
+          "groupaddress": [
+            "3/0/8"
+          ],
+          "bit": 16,
+          "flags": "CRT",
+          "dpt": "9.002",
+          "channel": "KNX Temperaturregler"
+        },
+        {
+          "number": 75,
+          "name": "Thermostat",
+          "function": "Status indication comfort setpoint heating",
+          "description": "",
+          "groupaddress": [],
+          "bit": 16,
+          "flags": "CRT",
+          "dpt": "9.001",
+          "channel": "KNX Temperaturregler"
+        },
+        {
+          "number": 76,
+          "name": "Thermostat",
+          "function": "Status indication standby setpoint heating",
+          "description": "",
+          "groupaddress": [],
+          "bit": 16,
+          "flags": "CRT",
+          "dpt": "9.001",
+          "channel": "KNX Temperaturregler"
+        },
+        {
+          "number": 77,
+          "name": "Thermostat",
+          "function": "Status indication night setpoint heating",
+          "description": "",
+          "groupaddress": [],
+          "bit": 16,
+          "flags": "CRT",
+          "dpt": "9.001",
+          "channel": "KNX Temperaturregler"
+        },
+        {
+          "number": 78,
+          "name": "Thermostat",
+          "function": "Status indication frost protection setpoint heating",
+          "description": "",
+          "groupaddress": [],
+          "bit": 16,
+          "flags": "CRT",
+          "dpt": "9.001",
+          "channel": "KNX Temperaturregler"
+        },
+        {
+          "number": 79,
+          "name": "Thermostat",
+          "function": "Status indication setpoints heating",
+          "description": "",
+          "groupaddress": [],
+          "bit": 64,
+          "flags": "CRT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 84,
+          "name": "Thermostat",
+          "function": "Status indication setpoints cooling",
+          "description": "",
+          "groupaddress": [],
+          "bit": 64,
+          "flags": "CRT",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 85,
+          "name": "Thermostat",
+          "function": "Status indication current setpoint",
+          "description": "heating.living.SETPOINT TEMP",
+          "groupaddress": [
+            "3/0/6"
+          ],
+          "bit": 16,
+          "flags": "CRT",
+          "dpt": "9.001",
+          "channel": "KNX Temperaturregler"
+        },
+        {
+          "number": 86,
+          "name": "Thermostat",
+          "function": "Presence",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRW",
+          "dpt": "1.001",
+          "channel": "KNX Temperaturregler"
+        },
+        {
+          "number": 89,
+          "name": "Temperature",
+          "function": "Internal temperature sensor",
+          "description": "heating.living.INT TEMP",
+          "groupaddress": [
+            "3/0/9"
+          ],
+          "bit": 16,
+          "flags": "CRT",
+          "dpt": "9.001",
+          "channel": "Interner Temperaturfühler"
+        },
+        {
+          "number": 91,
+          "name": "Date and time",
+          "function": "Date",
+          "description": "Date",
+          "groupaddress": [
+            "4/1/0"
+          ],
+          "bit": 24,
+          "flags": "CRW",
+          "dpt": "11.001",
+          "channel": "Date_and_time"
+        },
+        {
+          "number": 92,
+          "name": "Date and time",
+          "function": "Time",
+          "description": "Time",
+          "groupaddress": [
+            "4/1/1"
+          ],
+          "bit": 24,
+          "flags": "CRW",
+          "dpt": "10.001",
+          "channel": "Date_and_time"
+        },
+        {
+          "number": 93,
+          "name": "Date and time",
+          "function": "Date and time",
+          "description": "Date and Time (8)",
+          "groupaddress": [
+            "4/1/2"
+          ],
+          "bit": 64,
+          "flags": "CRW",
+          "dpt": "19.001",
+          "channel": "Date_and_time"
+        },
+        {
+          "number": 94,
+          "name": "Date and time",
+          "function": "Date and time request",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRT",
+          "dpt": "1.017",
+          "channel": "Date_and_time"
+        },
+        {
+          "number": 95,
+          "name": "Push-button 1",
+          "function": "Status indication ON/OFF",
+          "description": "hue.living.STATE",
+          "groupaddress": [
+            "1/3/0"
+          ],
+          "bit": 1,
+          "flags": "CRWTU",
+          "dpt": "1.001",
+          "channel": "Taste 1"
+        },
+        {
+          "number": 97,
+          "name": "Push-button 1",
+          "function": "Status ind. brightness value",
+          "description": "hue.living.STATE%",
+          "groupaddress": [
+            "1/3/1"
+          ],
+          "bit": 8,
+          "flags": "CRWTU",
+          "dpt": "5.001",
+          "channel": "Taste 1"
+        },
+        {
+          "number": 100,
+          "name": "Push-button 1",
+          "function": "ON/OFF",
+          "description": "hue.living.ON/OFF",
+          "groupaddress": [
+            "1/3/2"
+          ],
+          "bit": 1,
+          "flags": "CRT",
+          "dpt": "1.001",
+          "channel": "Taste 1"
+        },
+        {
+          "number": 103,
+          "name": "Push-button 1",
+          "function": "Dimming",
+          "description": "hue.living.DIM",
+          "groupaddress": [
+            "1/3/3"
+          ],
+          "bit": 4,
+          "flags": "CRT",
+          "dpt": "3.007",
+          "channel": "Taste 1"
+        },
+        {
+          "number": 107,
+          "name": "Push-button 2",
+          "function": "Status indication ON/OFF",
+          "description": "PushButton2.Rcd.STATE",
+          "groupaddress": [
+            "1/3/10"
+          ],
+          "bit": 1,
+          "flags": "CRWTU",
+          "dpt": "1.001",
+          "channel": "Taste 2"
+        },
+        {
+          "number": 109,
+          "name": "Push-button 2",
+          "function": "Status ind. brightness value",
+          "description": "PushButton2.Rcd.STATE%",
+          "groupaddress": [
+            "1/3/11"
+          ],
+          "bit": 8,
+          "flags": "CRWTU",
+          "dpt": "5.001",
+          "channel": "Taste 2"
+        },
+        {
+          "number": 112,
+          "name": "Push-button 2",
+          "function": "ON/OFF",
+          "description": "PushButton2.Rcd.ON/OFF",
+          "groupaddress": [
+            "1/3/12"
+          ],
+          "bit": 1,
+          "flags": "CRT",
+          "dpt": "1.001",
+          "channel": "Taste 2"
+        },
+        {
+          "number": 115,
+          "name": "Push-button 2",
+          "function": "Dimming",
+          "description": "PushButton2.Rcd.DIM",
+          "groupaddress": [
+            "1/3/13"
+          ],
+          "bit": 4,
+          "flags": "CRT",
+          "dpt": "3.007",
+          "channel": "Taste 2"
+        }
+      ],
+      "downloadrequired": false
+    },
+    {
+      "address": "1.1.15",
+      "name": "",
+      "description": "4SS UP",
+      "productname": "4 entrées à encastrer",
+      "manufacturer": "Hager Electro",
+      "serialnumber": "9 // TXB304",
+      "objects": [
+        {
+          "number": 0,
+          "name": "Entrée 1",
+          "function": "Indication d'état",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRWU",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 1,
+          "name": "Entrée 1",
+          "function": "ON / OFF",
+          "description": "HaloSpotLeft.A.ON/OFF",
+          "groupaddress": [
+            "1/1/0",
+            "5/1/1"
+          ],
+          "bit": 1,
+          "flags": "CRTU",
+          "dpt": "1.001",
+          "channel": ""
+        },
+        {
+          "number": 4,
+          "name": "Entrée 1",
+          "function": "Variation",
+          "description": "HaloSpotLeft.A.DIM",
+          "groupaddress": [
+            "1/1/1"
+          ],
+          "bit": 4,
+          "flags": "CRTU",
+          "dpt": "3.007",
+          "channel": ""
+        },
+        {
+          "number": 6,
+          "name": "Entrée 2",
+          "function": "Indication d'état",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRWU",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 7,
+          "name": "Entrée 2",
+          "function": "ON / OFF",
+          "description": "HaloSpotLeft.A.ON/OFF",
+          "groupaddress": [
+            "1/1/0",
+            "5/1/2"
+          ],
+          "bit": 1,
+          "flags": "CRTU",
+          "dpt": "1.001",
+          "channel": ""
+        },
+        {
+          "number": 10,
+          "name": "Entrée 2",
+          "function": "Variation",
+          "description": "HaloSpotLeft.A.DIM",
+          "groupaddress": [
+            "1/1/1"
+          ],
+          "bit": 4,
+          "flags": "CRTU",
+          "dpt": "3.007",
+          "channel": ""
+        },
+        {
+          "number": 12,
+          "name": "Entrée 3",
+          "function": "Indication d'état",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRWU",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 13,
+          "name": "Entrée 3",
+          "function": "ON / OFF",
+          "description": "HaloSpotRight.B.ON/OFF",
+          "groupaddress": [
+            "1/1/11",
+            "5/1/3"
+          ],
+          "bit": 1,
+          "flags": "CRTU",
+          "dpt": "1.001",
+          "channel": ""
+        },
+        {
+          "number": 16,
+          "name": "Entrée 3",
+          "function": "Variation",
+          "description": "HaloSpotRight.B.DIM",
+          "groupaddress": [
+            "1/1/12"
+          ],
+          "bit": 4,
+          "flags": "CRTU",
+          "dpt": "3.007",
+          "channel": ""
+        },
+        {
+          "number": 18,
+          "name": "Entrée 4",
+          "function": "Indication d'état",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRWU",
+          "dpt": "",
+          "channel": ""
+        },
+        {
+          "number": 19,
+          "name": "Entrée 4",
+          "function": "ON / OFF",
+          "description": "HaloSpotRight.B.ON/OFF",
+          "groupaddress": [
+            "1/1/11",
+            "5/1/4"
+          ],
+          "bit": 1,
+          "flags": "CRTU",
+          "dpt": "1.001",
+          "channel": ""
+        },
+        {
+          "number": 22,
+          "name": "Entrée 4",
+          "function": "Variation",
+          "description": "HaloSpotRight.B.DIM",
+          "groupaddress": [
+            "1/1/12"
+          ],
+          "bit": 4,
+          "flags": "CRTU",
+          "dpt": "3.007",
+          "channel": ""
+        },
+        {
+          "number": 26,
+          "name": "Blocage",
+          "function": "Blocage",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CRWU",
+          "dpt": "",
+          "channel": ""
+        }
+      ],
+      "downloadrequired": false
+    },
+    {
+      "address": "1.1.16",
+      "name": "",
+      "description": "Berker 2TS black",
+      "productname": "2-4 fold multifunction push-button with BCU",
+      "manufacturer": "Berker",
+      "serialnumber": "6 // 8014xxx0",
+      "objects": [
+        {
+          "number": 4,
+          "name": "General",
+          "function": "Lock-up",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CW",
+          "dpt": "1.011",
+          "channel": "Allgemein"
+        },
+        {
+          "number": 5,
+          "name": "LED management",
+          "function": "Day/night",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CW",
+          "dpt": "1.011",
+          "channel": "Farbe und Helligkeit Status LED"
+        },
+        {
+          "number": 6,
+          "name": "LED management",
+          "function": "Device LED - ON/OFF",
+          "description": "",
+          "groupaddress": [],
+          "bit": 1,
+          "flags": "CW",
+          "dpt": "1.001",
+          "channel": "Farbe und Helligkeit Status LED"
+        },
+        {
+          "number": 22,
+          "name": "Rocker 1-2",
+          "function": "Scene",
+          "description": "",
+          "groupaddress": [],
+          "bit": 8,
+          "flags": "CT",
+          "dpt": "18.001",
+          "channel": "Wippe 1-2"
+        },
+        {
+          "number": 62,
+          "name": "Push-button 3",
+          "function": "Scene",
+          "description": "General.Scene.Value",
+          "groupaddress": [
+            "1/0/10"
+          ],
+          "bit": 8,
+          "flags": "CT",
+          "dpt": "18.001",
+          "channel": "Taste 3"
+        },
+        {
+          "number": 78,
+          "name": "Push-button 4",
+          "function": "ON/OFF",
+          "description": "General.Light.ON/OFF",
+          "groupaddress": [
+            "1/0/0"
+          ],
+          "bit": 1,
+          "flags": "CT",
+          "dpt": "1.001",
+          "channel": "Taste 4"
+        }
+      ],
+      "downloadrequired": false
+    },
+    {
+      "address": "1.2.0",
+      "name": "",
+      "description": "KNX RF",
+      "productname": "Coupleur de média",
+      "manufacturer": "Hager Electro",
+      "serialnumber": "9 // TR131",
+      "objects": [],
+      "downloadrequired": true
+    }
+  ]
+}
