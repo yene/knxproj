@@ -179,6 +179,12 @@ func NewDevice(area string, line string, xmlDevice DeviceInstance) *Device {
 			if o.Description == "" {
 				o.Description = addr.Name
 			}
+			// If not DPT is found, use the DPT defined on the address
+			// TODO: I am not sure if this the right way. Not sure if it is allowed to overwrite the DPT.
+			if o.DPT == "" {
+				o.DPT = addr.DataPointType()
+			}
+
 			o.Groupaddress = append(o.Groupaddress, addr.Address)
 		}
 
