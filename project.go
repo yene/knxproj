@@ -332,7 +332,7 @@ func readGroupAdresses(ranges []GroupRange, style int) ([]GroupAddress, []GroupA
 				groups = append(groups, GroupAddressGroup{sub.Name, address})
 				for _, addr := range sub.GroupAddress {
 					ga := NewGroupAddress(addr)
-					GAddresses[ga.ID] = *ga
+					AllGroupAddress[ga.ID] = *ga
 					if debug {
 						log.Println("    ", ga.Name, ga.Address)
 					}
@@ -349,7 +349,7 @@ func readGroupAdresses(ranges []GroupRange, style int) ([]GroupAddress, []GroupA
 			groups = append(groups, GroupAddressGroup{main.Name, address})
 			for _, addr := range main.GroupAddress {
 				ga := NewGroupAddress(addr)
-				GAddresses[ga.ID] = *ga
+				AllGroupAddress[ga.ID] = *ga
 				if debug {
 					log.Println(" ", ga.Name, ga.Address)
 				}

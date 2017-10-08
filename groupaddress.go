@@ -10,13 +10,12 @@ import (
 const unspecified = -1
 
 type GroupAddress struct {
-	Address        string
-	Name           string
-	ID             string
-	MainType       int
-	SubType        int
-	Connected      bool
-	UserConfigured bool
+	Address       string
+	Name          string
+	ID            string
+	MainType      int
+	SubType       int
+	LinkedDevices int
 }
 
 func (g GroupAddress) String() string {

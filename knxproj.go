@@ -15,11 +15,11 @@ var Hardware map[string]Product
 var ComObjects map[string]ComObject
 var ComObjectRefs map[string]ComObjectRef
 var Manufacturers map[string]Manufacturer
-var GAddresses map[string]GroupAddress
+var AllGroupAddress map[string]GroupAddress
 var AddressStyle = 3
 
 func ReadProjects(tmpFolder string) {
-	GAddresses = make(map[string]GroupAddress)
+	AllGroupAddress = make(map[string]GroupAddress)
 
 	// form project folder, list files, and filter the important files
 	files, _ := ioutil.ReadDir(tmpFolder)

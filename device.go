@@ -174,7 +174,11 @@ func NewDevice(area string, line string, xmlDevice DeviceInstance) *Device {
 
 		o.Groupaddress = make([]string, 0)
 		for _, a := range c.Connectors.Addresses {
-			addr := GAddresses[a.GroupAddressRefID]
+			addr, ok := AllGroupAddress[a.GroupAddressRefID]
+			if !ok {
+				log.Fatalln("Could not find groupaddress which should exist", a)
+			}
+
 			// If no description is set use the first address as fallback.
 			if o.Description == "" {
 				o.Description = addr.Name
@@ -185,6 +189,8 @@ func NewDevice(area string, line string, xmlDevice DeviceInstance) *Device {
 				o.DPT = addr.DataPointType()
 			}
 
+			addr.LinkedDevices++
+			AllGroupAddress[a.GroupAddressRefID] = addr
 			o.Groupaddress = append(o.Groupaddress, addr.Address)
 		}
 
