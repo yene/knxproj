@@ -3,12 +3,11 @@ package main
 import (
 	"encoding/json"
 	"flag"
+	"fmt"
 	"io/ioutil"
 	"log"
 	"os"
 	"strings"
-
-	"fmt"
 
 	"github.com/yene/knxproj"
 )
@@ -38,13 +37,13 @@ func main() {
 	knxproj.ReadProjects(tmpFolder)
 
 	os.RemoveAll(tmpFolder)
-
-	for _, d := range knxproj.MainProject.DeviceList {
-		log.Println(d.String())
-	}
-
+	/*
+		for _, d := range knxproj.MainProject.DeviceList {
+			log.Println(d.String())
+		}
+	*/
 	for _, d := range knxproj.MainProject.GroupAddressList {
-		log.Println(d.String())
+		log.Println(d.DataPointType(), d.Address, d.Name)
 	}
 
 	rankingsJSON, _ := json.MarshalIndent(knxproj.MainProject, "", "  ")

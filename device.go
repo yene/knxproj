@@ -252,7 +252,17 @@ func stringToDPT(dpt string) string {
 	if len(dpt) == 0 {
 		return ""
 	}
-	split := strings.Split(dpt, "-")
+
+	// Handle multiple, space seperated DPT declarations.
+	// `<GroupAddress Id="P-048D-0_GA-572" Address="981" Name="Zehnder Lüftung Temperatur profil mode set" DatapointType="DPT-5 DPST-5-10" Puid="148858" />`
+	dpt = strings.TrimSpace(dpt)
+	split := strings.Split(dpt, " ")
+	sort.Slice(split, func(i, j int) bool {
+		return len(split[i]) >= len(split[j])
+	})
+	dpt = split[0]
+
+	split = strings.Split(dpt, "-")
 	mainType, _ := strconv.Atoi(split[1])
 	subType := 0
 	if split[0] == "DPST" {
