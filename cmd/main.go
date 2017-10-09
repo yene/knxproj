@@ -60,7 +60,7 @@ func main() {
 	var all JSONAddresses
 
 	for _, d := range knxproj.AllGroupAddress {
-		all = append(all, JSONAddress{Address: d.Address, Name: d.Name, DPT: d.DataPointType(), LinkedDevices: d.LinkedDevices})
+		all = append(all, JSONAddress{Address: d.Address, Name: d.Name, DPT: d.DataPointType(), LinkedDevices: d.LinkedDevices, Flags: d.Flags})
 		if d.DataPointType() == "" && d.LinkedDevices > 0 {
 			log.Println("This GA should have a DPT:", d)
 		}
@@ -75,10 +75,11 @@ func main() {
 }
 
 type JSONAddress struct {
-	Address       string `json:"address"`
-	Name          string `json:"name"`
-	DPT           string `json:"dpt"`
-	LinkedDevices int    `json:"linkeddevices"`
+	Address       string   `json:"address"`
+	Name          string   `json:"name"`
+	DPT           string   `json:"dpt"`
+	LinkedDevices int      `json:"linkeddevices"`
+	Flags         []string `json:"flags"`
 }
 
 type JSONAddresses []JSONAddress

@@ -189,6 +189,7 @@ func NewDevice(area string, line string, xmlDevice DeviceInstance) *Device {
 				o.DPT = addr.DataPointType()
 			}
 
+			addr.Flags = append(addr.Flags, o.Flags)
 			addr.LinkedDevices++
 			AllGroupAddress[a.GroupAddressRefID] = addr
 			o.Groupaddress = append(o.Groupaddress, addr.Address)

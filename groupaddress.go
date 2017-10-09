@@ -16,6 +16,7 @@ type GroupAddress struct {
 	MainType      int
 	SubType       int
 	LinkedDevices int
+	Flags         []string
 }
 
 func (g GroupAddress) String() string {
@@ -33,6 +34,7 @@ func NewGroupAddress(ga GroupAddress2) *GroupAddress {
 	g := new(GroupAddress)
 	g.MainType = unspecified
 	g.SubType = 0
+	g.Flags = make([]string, 0)
 
 	g.Name = ga.Name
 	if g.Name == "" {
